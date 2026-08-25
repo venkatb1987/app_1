@@ -22,7 +22,7 @@ class ColumnRowScreen extends StatelessWidget {
             children: [
               Container(
                 color: Colors.green,
-                padding: EdgeInsets.all(20),w
+                padding: EdgeInsets.all(20),
                 margin: EdgeInsets.all(5),
                 child: Text("This is a container"),
               ),

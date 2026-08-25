@@ -6,9 +6,12 @@ import './container_test.dart';
 import './text_field_test.dart ';
 import './column_row_test.dart';
 import './list_tile_test.dart';
+import './stateful_contact.dart';
+
+
 void main() {
   runApp( MaterialApp(
-    home: ListTileScreen(),
+    home: Contact(),
   )
   ); 
 }
